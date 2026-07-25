@@ -1,0 +1,36 @@
+[submodule "Laboratorios/Diseno-Conceptual-General-MBDA"]
+	path = Laboratorios/Diseno-Conceptual-General-MBDA
+	url = https://github.com/JuanGuayazanC/Diseno-Conceptual-General-MBDA.git
+[submodule "Laboratorios/Diseno-Conceptual-Extendido-MBDA"]
+	path = Laboratorios/Diseno-Conceptual-Extendido-MBDA
+	url = https://github.com/JuanGuayazanC/Diseno-Conceptual-Extendido-MBDA.git
+[submodule "Laboratorios/Diseno-Logico-Declarativo-MBDA"]
+	path = Laboratorios/Diseno-Logico-Declarativo-MBDA
+	url = https://github.com/JuanGuayazanC/Diseno-Logico-Declarativo-MBDA.git
+[submodule "Laboratorios/Diseno-Logico-Procedimental-MBDA"]
+	path = Laboratorios/Diseno-Logico-Procedimental-MBDA
+	url = https://github.com/JuanGuayazanC/Diseno-Logico-Procedimental-MBDA.git
+[submodule "Laboratorios/Diseno-Fisico-MBDA"]
+	path = Laboratorios/Diseno-Fisico-MBDA
+	url = https://github.com/JuanGuayazanC/Diseno-Fisico-MBDA.git
+[submodule "Laboratorios/XML-y-SQL-MBDA"]
+	path = Laboratorios/XML-y-SQL-MBDA
+	url = https://github.com/JuanGuayazanC/XML-y-SQL-MBDA.git
+[submodule "Autoestudios/SQL-Basico-Consultas-MBDA"]
+	path = Autoestudios/SQL-Basico-Consultas-MBDA
+	url = https://github.com/JuanGuayazanC/SQL-Basico-Consultas-MBDA.git
+[submodule "Autoestudios/SQL-Basico-Juntas-MBDA"]
+	path = Autoestudios/SQL-Basico-Juntas-MBDA
+	url = https://github.com/JuanGuayazanC/SQL-Basico-Juntas-MBDA.git
+[submodule "Autoestudios/SQL-Developer-MBDA"]
+	path = Autoestudios/SQL-Developer-MBDA
+	url = https://github.com/JuanGuayazanC/SQL-Developer-MBDA.git
+[submodule "Autoestudios/PLSQL-Basico-Declarativo-MBDA"]
+	path = Autoestudios/PLSQL-Basico-Declarativo-MBDA
+	url = https://github.com/JuanGuayazanC/PLSQL-Basico-Declarativo-MBDA.git
+[submodule "Autoestudios/PLSQL-Basico-Paquetes-MBDA"]
+	path = Autoestudios/PLSQL-Basico-Paquetes-MBDA
+	url = https://github.com/JuanGuayazanC/PLSQL-Basico-Paquetes-MBDA.git
+[submodule "Autoestudios/XML-Basico-MBDA"]
+	path = Autoestudios/XML-Basico-MBDA
+	url = https://github.com/JuanGuayazanC/XML-Basico-MBDA.git
