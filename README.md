@@ -1,13 +1,15 @@
 # Modelos y Bases de Datos
 
-JUAN SEBASTIÁN GUAYAZÁN CLAVIJO y MARIANELLA POLO PEÑA  
-Modelos y Bases de Datos (ISIS MBDA-2 y MBDA-201)  
-Decanatura Ingeniería de Sistemas → Centro de Estudios de Ingeniería de Software  
-Ingeniería de Sistemas  
-Escuela Colombiana de Ingeniería Julio Garavito  
-2025-1
+Repositorio general del curso: consolida los temas y conceptos vistos, y agrupa el proyecto, los laboratorios y los autoestudios como [submódulos de git](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
 
-Repositorio general del curso: consolida los temas y conceptos vistos, y agrupa el proyecto, los laboratorios y los autoestudios como [submódulos de git](https://git-scm.com/book/en/v2/Git-Tools-Submodules) en las carpetas `Proyecto/`, `Laboratorios/` y `Autoestudios/` — cada uno con su propio detalle (enunciado, estructura, cómo ejecutar y resultados).
+## Estructura del proyecto
+
+```
+.
+├── Proyecto/        # Submódulo → SICEI-MBDA
+├── Laboratorios/     # Submódulos → un repo por laboratorio
+└── Autoestudios/      # Submódulos → un repo por autoestudio
+```
 
 ## Temas del curso
 
