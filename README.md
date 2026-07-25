@@ -5,7 +5,7 @@ Repositorio general del curso: consolida los temas y conceptos vistos, y agrupa 
 ## Estructura del proyecto
 
 ```
-.
+Modelos-y-Bases-de-Datos/
 ├── Proyecto/        # Submódulo → SICEI-MBDA
 ├── Laboratorios/     # Submódulos → un repo por laboratorio
 └── Autoestudios/      # Submódulos → un repo por autoestudio
