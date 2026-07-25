@@ -7,7 +7,13 @@ Ingeniería de Sistemas
 Escuela Colombiana de Ingeniería Julio Garavito  
 2025-1
 
-Índice de los laboratorios y autoestudios del curso, separados cada uno en su propio repositorio y enlazados aquí como [submódulos de git](https://git-scm.com/book/en/v2/Git-Tools-Submodules) — cada carpeta es un puntero al repositorio real, no una copia de su contenido.
+Índice del proyecto, los laboratorios y los autoestudios del curso, separados cada uno en su propio repositorio y enlazados aquí como [submódulos de git](https://git-scm.com/book/en/v2/Git-Tools-Submodules) — cada carpeta es un puntero al repositorio real, no una copia de su contenido.
+
+## Proyecto
+
+| Carpeta | Repositorio |
+|---|---|
+| `Proyecto` | [SICEI-MBDA](https://github.com/JuanGuayazanC/SICEI-MBDA) — proyecto final del curso |
 
 ## Laboratorios
 

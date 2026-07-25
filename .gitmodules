@@ -34,3 +34,6 @@
 [submodule "Autoestudios/XML-Basico-MBDA"]
 	path = Autoestudios/XML-Basico-MBDA
 	url = https://github.com/JuanGuayazanC/XML-Basico-MBDA.git
+[submodule "Proyecto"]
+	path = Proyecto
+	url = https://github.com/JuanGuayazanC/SICEI-MBDA.git
