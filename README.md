@@ -1,6 +1,8 @@
-# Modelos y Bases de Datos
+# Modelos y Bases de Datos (MBDA)
 
-Repositorio general del curso: consolida los temas y conceptos vistos, y agrupa el proyecto, los laboratorios y los autoestudios como [submódulos de git](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
+Repositorio general del curso Modelos y Bases de Datos (ISIS MBDA-2 y MBDA-201), que agrupa —mediante submódulos de git— el proyecto, los laboratorios y los autoestudios del curso.
+
+Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para clonar este repositorio junto con todo su contenido, ver [Cómo clonar](#cómo-clonar).
 
 ## Estructura del proyecto
 
@@ -45,10 +47,4 @@ Si ya clonaste el repositorio sin submódulos:
 
 ```bash
 git submodule update --init --recursive
-```
-
-Para traer las últimas actualizaciones de cada repositorio enlazado:
-
-```bash
-git submodule update --remote --merge
 ```
