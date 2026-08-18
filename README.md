@@ -37,6 +37,10 @@ El curso recorre el ciclo completo de diseño e implementación de una base de d
 - **Oracle / SQL Developer** — motor principal desde el diseño lógico en adelante.
 - **[Astah](https://astah.net/)** — modelado UML (clases y casos de uso).
 
+## Profesores
+
+Laura Catalina Herrera Correa (teoría) y María Irma Díaz Rozo (laboratorio).
+
 ## Cómo usar este repositorio
 
 Este repositorio no contiene código directamente: es una colección de repositorios independientes (proyecto, laboratorios y autoestudios), organizados por carpetas. Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
