@@ -1,8 +1,8 @@
 # Modelos y Bases de Datos (MBDA)
 
-Repositorio general del curso Modelos y Bases de Datos (ISIS MBDA-2 y MBDA-201), que agrupa —mediante submódulos de git— el proyecto, los laboratorios y los autoestudios del curso.
+Repositorio general del curso Modelos y Bases de Datos, que agrupa —mediante submódulos de git— el proyecto, los laboratorios y los autoestudios del curso.
 
-Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para clonar este repositorio junto con todo su contenido, ver [Cómo clonar](#cómo-clonar).
+Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para saber cómo aprovechar este repositorio, ver [Cómo usar este repositorio](#cómo-usar-este-repositorio).
 
 ## Estructura del proyecto
 
@@ -37,7 +37,12 @@ El curso recorre el ciclo completo de diseño e implementación de una base de d
 - **Oracle / SQL Developer** — motor principal desde el diseño lógico en adelante.
 - **[Astah](https://astah.net/)** — modelado UML (clases y casos de uso).
 
-## Cómo clonar
+## Cómo usar este repositorio
+
+Este repositorio no contiene código directamente: es una colección de repositorios independientes (proyecto, laboratorios y autoestudios), organizados por carpetas. Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
+
+- **Para consultar una actividad puntual**: entra directamente a su carpeta en GitHub (o navega el submódulo) y revisa su propio README.
+- **Para tener todo el contenido en tu máquina**:
 
 ```bash
 git clone --recurse-submodules https://github.com/JuanGuayazanC/Modelos-y-Bases-de-Datos.git
