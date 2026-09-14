@@ -4,6 +4,11 @@ Agrupa el proyecto, los laboratorios y los autoestudios del curso.
 
 Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para saber cómo aprovechar este repositorio, ver [Cómo usar este repositorio](#cómo-usar-este-repositorio).
 
+## Autor
+
+[JUAN SEBASTIÁN GUAYAZÁN CLAVIJO](https://github.com/JuanGuayazanC)  
+Escuela Colombiana de Ingeniería Julio Garavito
+
 ## Estructura del proyecto
 
 ```
